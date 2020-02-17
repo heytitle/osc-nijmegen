@@ -12,3 +12,4 @@ jobs:
         with:
           ext: ".md"
           directory: "./docs/_pages"
+          dictionary: ".github/workflows/dict.json"
